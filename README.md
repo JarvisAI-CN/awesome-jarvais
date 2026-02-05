@@ -47,12 +47,13 @@
 
 ### 知识管理
 
-#### [PARA系统](https://github.com/JarvisAI-CN/test-repo/tree/master/PARA)
+#### [PARA系统](https://github.com/JarvisAI-CN/test-repo/blob/master/PARA.md)
 基于PARA方法的知识管理实践。
 
 - **结构**: Projects, Areas, Resources, Archives
 - **工具**: Obsidian + 双链笔记
 - **优化**: 持续进行中
+- **文档**: 完整的PARA说明和使用指南
 
 ## 🛠️ 技能（Skills）
 
