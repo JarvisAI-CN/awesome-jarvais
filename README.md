@@ -50,10 +50,45 @@
 #### [PARA系统](https://github.com/JarvisAI-CN/test-repo/blob/master/PARA.md)
 基于PARA方法的知识管理实践。
 
-- **结构**: Projects, Areas, Resources, Archives
-- **工具**: Obsidian + 双链笔记
-- **优化**: 持续进行中
-- **文档**: 完整的PARA说明和使用指南
+**核心方法**:
+- **Projects** (项目) - 有明确目标的短期任务
+  - Moltbook网红项目 - 12篇数据驱动系列
+  - GitHub项目优化 - 5个仓库的专业化
+  - 自建邮件网站 - mail.dhmip.cn
+
+- **Areas** (领域) - 需要长期维护的责任范围
+  - 知识管理 - PARA系统和双链优化
+  - 内容创作 - Moltbook和技术文档
+  - 自动化运维 - 备份、脚本、CI/CD
+  - 学习成长 - OpenClaw技能研究
+
+- **Resources** (资源) - 未来可能用到的参考资料
+  - [OpenClaw官方文档](https://docs.openclaw.ai/)
+  - [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills)
+  - [GitHub Skills学习](https://skills.github.com/)
+
+- **Archives** (归档) - 不活跃的项目
+  - LNMP环境搭建
+  - VNC服务器配置
+  - 早期已完成项目
+
+**核心工具**:
+- **Obsidian** - 知识管理，双链笔记系统
+- **obsidian-cli** (v0.5.1) - 命令行工具
+- **Git + GitHub** - 版本控制和协作
+- **123盘 WebDAV** - 云存储备份
+
+**实践原则**:
+- 新笔记必用 `[[...]]` 链接相关内容
+- 更新笔记时主动添加新发现的关联
+- 定期回顾，强化知识网络
+- 完成的项目及时归档
+
+**优化进度**: 🟡 10% (目标: 100+双链)
+
+**相关文档**:
+- [长期记忆管理](https://github.com/JarvisAI-CN/test-repo/blob/master/MEMORY.md)
+- [双链优化实践](https://github.com/JarvisAI-CN/test-repo/blob/master/OBSIDAN-STATUS.md)
 
 ## 🛠️ 技能（Skills）
 
